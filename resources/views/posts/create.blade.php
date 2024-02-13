@@ -1,6 +1,6 @@
 @extends('layouts.plantilla')
 
-@section('title', 'Crear Post')
+@section('title', 'Prueba de Formulario')
 
 @section('content')
     <form>
